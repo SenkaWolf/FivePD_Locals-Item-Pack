@@ -1,6 +1,6 @@
 ![FivePD Logo](https://i.imgur.com/KosXD7Y.png)
 
-# FivePD_Locals-Item-Pack
+# FivePD Locals Item Pack
 A Item modification which adds more items which can be found when searching a local or their vehicle.
 
 # How To Install

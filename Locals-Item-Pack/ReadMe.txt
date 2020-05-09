@@ -4,7 +4,7 @@
 
 Information
 -----------------------
-*** Version: 1.0.0
+*** Version: 1.1.0
 *** FivePD Version Support: 1.0.5.1
 
 
